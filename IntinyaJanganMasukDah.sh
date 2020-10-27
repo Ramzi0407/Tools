@@ -1,5 +1,4 @@
-#!/bin/sh
-
+#usr/bin/sh
 clear
 r="\033[1;31m" # merah
 g="\033[1;32m" # hijau
@@ -8,7 +7,6 @@ b="\033[1;34m" # biru
 p="\033[1;35m" # ungu
 cy="\033[1;36m" # biru muda
 w="\033[1;37m" # putih
-
 echo $cy
 figlet "Tools"
 echo $w"—————————————————————————————————————————————————————"
@@ -17,6 +15,7 @@ echo $cy" GitHub"$r"  : "$cy"https://github.com/Ramzi0407 "
 echo $cy" YouTube"$r" : "$cy"RamziGaming708 "
 echo $cy" Team"$r"    : "$cy"Cyber Muslim Army"
 echo $w"—————————————————————————————————————————————————————"
+	sleep 3
 echo
 echo
 echo  "Pilih Menu Tools [?]"
@@ -27,7 +26,8 @@ echo $w"["$g"2"$w"] "$p"Brutal-Sms"
 echo $w"["$g"3"$w"] "$p"SpamWa"
 echo $w"["$g"4"$w"] "$p"SpamSmsGratis"
 echo $w"["$g"5"$w"] "$p"Spam scw (sms,call,wa)"
-echo $w"———————————————————————————————"
+echo $w"——————————————————————————————"
+	sleep 3
 echo
 echo
 echo $w"———————————————————————————————"
@@ -38,6 +38,7 @@ echo $w"["$r"8"$w"] "$cy"Dark Fb Premium"
 echo $w"["$r"9"$w"] "$cy"Dark Fbv1.7"
 echo $w"["$r"10"$w"] "$cy"HackFb"
 echo $w"———————————————————————————————"
+	sleep 3
 echo
 echo
 echo $w"———————————————————————————————"
@@ -48,6 +49,7 @@ echo $w"["$w"13"$w"] "$g"Torjan"
 echo $w"["$w"14"$w"] "$g"Virus VBUG"
 echo $w"["$w"15"$w"] "$g"Virtex"
 echo $w"———————————————————————————————"
+	sleep 3
 echo
 echo
 echo $w"———————————————————————————————"
@@ -58,6 +60,7 @@ echo $w"["$cy"18"$w"] "$r"IPGeolocation"
 echo $w"["$cy"19"$w"] "$r"membuat Script deface"
 echo $w"["$cy"20"$w"] "$r"Tebas"
 echo $w"———————————————————————————————"
+	sleep 3
 echo
 echo
 echo $w"———————————————————————————————"
@@ -68,7 +71,6 @@ echo $w"["$y"23"$w"] "$y"Tools Phising"
 echo $w"["$y"24"$w"] "$y"Tools VIP"
 echo $w"["$y"25"$w"] "$y"Tools Gw:v"
 echo $w"————————————————————————————————"
-echo
 echo
 echo $w"————————————————————————————————"
 echo

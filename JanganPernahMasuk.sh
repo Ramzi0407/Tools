@@ -11,12 +11,14 @@ w="\033[1;37m" # putih
 
 echo $cy
 figlet "Tools"
+	sleep 2
 echo $w"—————————————————————————————————————————————————————"
 echo $cy" Author"$r"  : "$cy"Ramzi Idzuddin "
 echo $cy" GitHub"$r"  : "$cy"https://github.com/Ramzi0407 "
 echo $cy" YouTube"$r" : "$cy"RamziGaming708 "
 echo $cy" Team"$r"    : "$cy"Cyber Muslim Army"
 echo $w"—————————————————————————————————————————————————————"
+	sleep 3
 echo
 echo
 echo  "Pilih Menu Tools [?]"
@@ -28,6 +30,7 @@ echo $w"["$g"3"$w"] "$p"SpamWa"
 echo $w"["$g"4"$w"] "$p"SpamSmsGratis"
 echo $w"["$g"5"$w"] "$p"Spam scw (sms,call,wa)"
 echo $w"———————————————————————————————"
+	sleep 3
 echo
 echo
 echo $w"———————————————————————————————"
@@ -38,6 +41,7 @@ echo $w"["$r"8"$w"] "$cy"Dark Fb Premium"
 echo $w"["$r"9"$w"] "$cy"Dark Fbv1.7"
 echo $w"["$r"10"$w"] "$cy"HackFb"
 echo $w"———————————————————————————————"
+	sleep 3
 echo
 echo
 echo $w"———————————————————————————————"
@@ -48,6 +52,7 @@ echo $w"["$w"13"$w"] "$g"Torjan"
 echo $w"["$w"14"$w"] "$g"Virus VBUG"
 echo $w"["$w"15"$w"] "$g"Virtex"
 echo $w"———————————————————————————————"
+	sleep 3
 echo
 echo
 echo $w"———————————————————————————————"
@@ -58,6 +63,7 @@ echo $w"["$cy"18"$w"] "$r"IPGeolocation"
 echo $w"["$cy"19"$w"] "$r"membuat Script deface"
 echo $w"["$cy"20"$w"] "$r"Tebas"
 echo $w"———————————————————————————————"
+sleep 3
 echo
 echo
 echo $w"———————————————————————————————"
@@ -68,6 +74,7 @@ echo $w"["$y"23"$w"] "$y"Tools Phising"
 echo $w"["$y"24"$w"] "$y"Tools VIP"
 echo $w"["$y"25"$w"] "$y"Tools Gw:v"
 echo $w"————————————————————————————————"
+	sleep 3
 echo
 echo
 echo $w"————————————————————————————————"
@@ -268,6 +275,7 @@ figlet "Thanks You"
 sleep 2
 exit
 
+
 else
 	echo $r"Pilih input Yang bener dong sayang:v"
 	sleep 2
@@ -275,3 +283,4 @@ else
 fi
 clear
 #batas gan
+

@@ -61,11 +61,12 @@ clear
 
 echo $cy
 figlet "Tools"
-echo $w"———————————————————————————————————————————"
+echo $w"—————————————————————————————————————————————————————"
 echo $cy" Author"$r"  : "$cy"Ramzi Idzuddin "
+echo $cy" GitHub"$r"  : "$cy"https://github.com/Ramzi0407"
 echo $cy" YouTube"$r" : "$cy"RamziGaming708 "
 echo $cy" Team"$r"    : "$cy"Cyber Muslim Army"
-echo $w"———————————————————————————————————————————"
+echo $w"—————————————————————————————————————————————————————"
 	sleep 3
 echo
 echo
@@ -125,7 +126,7 @@ echo $w"————————————————————————
 echo
 echo $w"————————————————————————————————"
 echo
-echo $w"["$r"00"$w"] "$r"EXIT"
+echo $w"["$r"00"$w"] "$r"Kembali Ke Awal"
 echo
 echo $w"————————————————————————————————"
 read -p " [?] Pilih : " pil;

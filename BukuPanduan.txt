@@ -11,7 +11,7 @@ dibawah ini :
 4.$ pkg install figlet
 5.$ pkg install git
 ——————————————————————————————————
-oke setelah itu kalian ketik "cd Tolol" setelah kalian ketik "sh Hack.sh" 
+oke setelah itu kalian ketik "cd Mr.RamziTools" setelah kalian ketik "sh Hack.sh" 
 setelah kalian masuk kedalam toolsnya kalian pilih "install bahan"
 jika sudah silahkan dpilih sesuka hatimu
 
