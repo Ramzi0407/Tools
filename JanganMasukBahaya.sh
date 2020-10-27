@@ -14,6 +14,12 @@ sleep 3
 
 apt update && apt upgrade
 pkg update && pkg upgrade
+sudo apt install python-pip
+apt install figlet
+apt install nano
+apt install bash
+apt install git
+apt install curl
 pkg install python2
 pkg install python
 pip2 install requests mechanize bs4
